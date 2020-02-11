@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/binary-to-decimal-converter/static/css/main.0c7e7b7a.chunk.css",
+    "main.js": "/binary-to-decimal-converter/static/js/main.aebddfab.chunk.js",
+    "main.js.map": "/binary-to-decimal-converter/static/js/main.aebddfab.chunk.js.map",
+    "runtime-main.js": "/binary-to-decimal-converter/static/js/runtime-main.746a46fb.js",
+    "runtime-main.js.map": "/binary-to-decimal-converter/static/js/runtime-main.746a46fb.js.map",
+    "static/js/2.82156f04.chunk.js": "/binary-to-decimal-converter/static/js/2.82156f04.chunk.js",
+    "static/js/2.82156f04.chunk.js.map": "/binary-to-decimal-converter/static/js/2.82156f04.chunk.js.map",
+    "index.html": "/binary-to-decimal-converter/index.html",
+    "precache-manifest.085c213d8d77eaf6df97750e55d1abe2.js": "/binary-to-decimal-converter/precache-manifest.085c213d8d77eaf6df97750e55d1abe2.js",
+    "service-worker.js": "/binary-to-decimal-converter/service-worker.js",
+    "static/css/main.0c7e7b7a.chunk.css.map": "/binary-to-decimal-converter/static/css/main.0c7e7b7a.chunk.css.map",
+    "static/js/2.82156f04.chunk.js.LICENSE.txt": "/binary-to-decimal-converter/static/js/2.82156f04.chunk.js.LICENSE.txt",
+    "static/media/cog.svg": "/binary-to-decimal-converter/static/media/cog.84b58254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.746a46fb.js",
+    "static/js/2.82156f04.chunk.js",
+    "static/css/main.0c7e7b7a.chunk.css",
+    "static/js/main.aebddfab.chunk.js"
+  ]
+}
